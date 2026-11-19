@@ -1,0 +1,4 @@
+# Jangan unggah foto pengguna ke GitHub
+uploads/*
+!uploads/.gitkeep
+!uploads/.htaccess
